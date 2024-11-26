@@ -18,7 +18,7 @@ Neste repositório você encontra tudo sobre o meu TCC:
 - O intuito do protótipo foi para aprender mais sobre criptografia e sobre o comportamento dos ransomwares
 
 # COMO RODAR O PROTÓTIPO (Passo a Passo):
-#OBSERVAÇÂO: talvez seja necessário um conhecimento em programação python para pequenas ajustes de código
+#OBSERVAÇÂO: talvez seja necessário um conhecimento em programação python para pequenos ajustes de código
 - Desative o antivírus de seu computador
 - Crie uma pasta (com qualquer nome) na sua área de trabalho (ou onde desejar)
 - inclua o arquivo do ransomware (.py) nessa pasta, juntamente com arquivos .txt ou .png ou .pdf (para os testes)
