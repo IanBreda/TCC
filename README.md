@@ -2,6 +2,7 @@
 Neste repositório você encontra tudo sobre o meu TCC:
 - Monografia
 - Modelo de aprendizado de máquina
+- Conjunto de dados para o treinamento do modelo
 - Protótipo do Ransomware
 - Outros códigos que foram utilizados
 - Chaves de criptografia (AES-128, e RSA-2048)
