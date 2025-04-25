@@ -28,6 +28,6 @@ Neste repositório você encontra tudo sobre o meu TCC:
 - Ele criptografa usando a chave AES-128 (ela será gerada pelo próprio vírus) e, por fim, criptografa a chave AES usando a chave RSA (pública)
 - O ransomware também vai gerar um arquivo de ajuda (readme.help, que pode ser lido pelo bloco de notas) e uma ferramenta de decriptografia (.py) para o usuário
 - A ferramenta de descriptografia deve ser gerada (e executada) juntamente com a chave RSA (privada, que deve estar incluída neste repositório) na MESMA pasta que foi criada por você na sua área de trabalho (para funcionar corretamente)
-- Caso o usuário ainda não tenha salvo a chave RSA privada juntamente com a ferramenta de descriptografia, ela NÃO vai funcionar e deve exibir uma mensagem indicando que você pague o resgate (é só baixar a chave aqui kkk)
+- Caso o usuário ainda não tenha salvo a chave RSA privada juntamente com a ferramenta de descriptografia, ela NÃO vai funcionar e deve exibir uma mensagem indicando que você pague o resgate (é só baixar a chave aqui)
 - Por fim, todos os arquivos devem voltar ao normal e se tornarem acessíveis novamente!
 - Se completar todos os passos corretamente, tudo deve correr bem, e será possível ver (de forma não tão sofisticada) o funcionamento de um ransomware :)
